@@ -1,11 +1,11 @@
 {
-  "originalName": "Sicilian Defence.json",
-  "totalSize": 42807816,
+  "originalName": "sicilian.json",
+  "totalSize": 42815096,
   "chunkSize": 20971520,
   "totalParts": 3,
   "parts": [
-    "Sicilian Defence.json.part01",
-    "Sicilian Defence.json.part02",
-    "Sicilian Defence.json.part03"
+    "sicilian.json.part01",
+    "sicilian.json.part02",
+    "sicilian.json.part03"
   ]
 }
