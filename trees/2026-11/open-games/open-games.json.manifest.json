@@ -1,0 +1,10 @@
+{
+  "originalName": "open-games.json",
+  "totalSize": 34700296,
+  "chunkSize": 20971520,
+  "totalParts": 2,
+  "parts": [
+    "open-games.json.part01",
+    "open-games.json.part02"
+  ]
+}
