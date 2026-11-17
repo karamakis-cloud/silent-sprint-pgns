@@ -1,9 +1,10 @@
 {
   "originalName": "kings-indian-defense.json",
-  "totalSize": 18656033,
+  "totalSize": 23898180,
   "chunkSize": 20971520,
-  "totalParts": 1,
+  "totalParts": 2,
   "parts": [
-    "kings-indian-defense.json.part01"
+    "kings-indian-defense.json.part01",
+    "kings-indian-defense.json.part02"
   ]
 }
