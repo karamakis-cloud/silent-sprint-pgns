@@ -5394,11 +5394,11 @@ Rxh3+ 29. gxh3 Nxb1 30. Rxb1 Qxb1 31. Qxa7 Qb5 32. Ba5 Re8 *
 [White "Petrosian"]
 [Black "Manoian"]
 [Result "*"]
-[FEN "r6r/1q5k/p5pn/3pQ1P1/1P4P1/2P4R/2P4P/6K1 b - - 0 32"]
+[FEN "r6r/6qk/p5pn/3pQ1P1/1P4P1/2P4R/2P4P/6K1 w - - 1 33"]
 [SetUp "1"]
 [Annotator "Yerevan 1948"]
 
-Qg7 33. Rxh6+ Kg8 34. Qe6+ *
+33. Rxh6+ Kg8 34. Qe6+ *
 
 [Event "Exercise 637"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -6770,7 +6770,7 @@ Qc5+ 20. Kh1 Nf6 21. Bxf6 Bxe6 *
 [SetUp "1"]
 [Annotator "Sousse 1967"]
 
-30. Qh6 Qf8 31. Qxh7+ Kxh7 32. hxg6+ Kxg6 33. Rh8 *
+30. Qh6 Qf8 31. Qxh7+ Kxh7 32. hxg6+ Kxg6 33. Be4# *
 
 [Event "Exercise 742"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -7245,7 +7245,7 @@ Qg2# *
 [SetUp "1"]
 [Annotator "Hoogeveen 2003"]
 
-25. Bxh7+ Kxh7 26. Qh5+ Kg8 27. Bxg7 Kxg7 28. Qg6+ *
+25. Bxh7+ Kxh7 26. Qh5+ Kg8 27. Bxg7 Kxg7 28. Qg5+ *
 
 [Event "Exercise 778"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -7799,12 +7799,12 @@ Nxg2 20. Kxg2 Bxh3+ 21. Kg3 Re6 22. f4 g5 *
 [White "Gurevich"]
 [Black "Khalifman"]
 [Result "*"]
-[FEN "br4k1/p1q2p2/4nnp1/2P1N3/P2R3p/4N1P1/QB2PP1P/6K1 b - - 0 26"]
+[FEN "br4k1/pq3p2/4nnp1/2P1N3/P2R3p/4N1P1/QB2PP1P/6K1 w - - 1 27"]
 [SetUp "1"]
 [Annotator "Moscow (rapid) 1992"]
 
-Qb7 27. c6 Qxb2 28. Qxb2 Rxb2 29. Rd8+ Nxd8 30. c7 Rb1+ 31. Nf1 Rd1 32. c8=Q
-Bb7 33. Qc2 Rd5 34. Nxg6 *
+27. c6 Qxb2 28. Qxb2 Rxb2 29. Rd8+ Nxd8 30. c7 Rb1+ 31. Nf1 Rd1 32. c8=Q Bb7
+33. Qc2 Rd5 34. Nxg6 *
 
 [Event "Exercise 821"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -8207,12 +8207,12 @@ Nf2 25. Be3 Nd3 26. Re2 Nb4 *
 [White "Kramnik"]
 [Black "Anand"]
 [Result "*"]
-[FEN "8/1b1nkp1p/4pq2/1B6/PP1p1pQ1/2r2N2/5PPP/4R1K1 w - - 0 29"]
+[FEN "8/1b1nkp1p/4pq2/1B6/PP1N1pQ1/2r5/5PPP/4R1K1 b - - 0 29"]
 [SetUp "1"]
 [Annotator "Bonn (5) 2008"]
 
-29. Nxd4 Qxd4 30. Rd1 Nf6 31. Rxd4 Nxg4 32. Rd7+ Kf6 33. Rxb7 Rc1+ 34. Bf1 Ne3
-35. fxe3 fxe3 *
+Qxd4 30. Rd1 Nf6 31. Rxd4 Nxg4 32. Rd7+ Kf6 33. Rxb7 Rc1+ 34. Bf1 Ne3 35. fxe3
+fxe3 *
 
 [Event "Exercise 852"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -8390,11 +8390,11 @@ Rxc2 23. Kxc2 Qxa2 24. f4 Rc8+ 25. Kd2 Bxf4+ 26. Ke2 Qxb2+ 27. Kf3 Rc1 *
 [White "Arizmendi"]
 [Black "Anand"]
 [Result "*"]
-[FEN "4r1k1/p2qbp1p/1p2p1pB/4r3/4N3/P4Q1P/1P3PP1/4R1K1 w - - 0 25"]
+[FEN "4r1k1/p2qbp1p/1p2pNpB/4r3/8/P4Q1P/1P3PP1/4R1K1 b - - 1 25"]
 [SetUp "1"]
 [Annotator "Villarrobledo (rapid) 1998"]
 
-25. Nf6+ Bxf6 26. Qxf6 Rxe1+ 27. Kh2 Qd6+ 28. f4 Qf8 29. Bxf8 Rxf8 *
+Bxf6 26. Qxf6 Rxe1+ 27. Kh2 Qd6+ 28. f4 Qf8 29. Bxf8 Rxf8 *
 
 [Event "Exercise 866"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -8507,11 +8507,11 @@ Bxd4 21. Bxd4 Bxa2+ 22. Kxa2 Qa5+ 23. Kb1 b3 24. cxb3 Qxd2 *
 [White "Cebalo"]
 [Black "Anand"]
 [Result "*"]
-[FEN "4rnk1/pb3ppp/1p6/3r2q1/1Bp5/P4B2/1PQ2PP1/1K1R3R w - - 0 22"]
+[FEN "4rnk1/pb3ppp/1p6/3R2q1/1Bp5/P4B2/1PQ2PP1/1K5R b - - 0 22"]
 [SetUp "1"]
 [Annotator "Bastia 2003"]
 
-22. Rxd5 Bxd5 23. Rh5 Qxh5 24. Bxh5 Be4 *
+Bxd5 23. Rh5 Qxh5 24. Bxh5 Be4 *
 
 [Event "Exercise 875"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
@@ -8638,11 +8638,11 @@ Rxf3 28. gxf3 Rxf3 29. Kg1 Rxc3 *
 [White "Ponomariov"]
 [Black "Ponomariov"]
 [Result "*"]
-[FEN "r1b3k1/p1q2pp1/2p4p/4b3/4r3/1P5P/PNP1BPP1/1R1Q1R1K b - - 0 21"]
+[FEN "r1b3k1/p1q2pp1/2p4p/8/4r3/1P5P/PbP1BPP1/1R1Q1R1K w - - 0 22"]
 [SetUp "1"]
 [Annotator "Alicante 1997"]
 
-Bxb2 22. Rxb2 Bxh3 23. gxh3 Qe5 24. c3 *
+22. Rxb2 Bxh3 23. gxh3 Qe5 24. c3 *
 
 [Event "Exercise 885"]
 [Site "The Woodpecker Method - Intermediate Exercises"]
